@@ -1,0 +1,18 @@
+img{
+    display: block;
+    margin: 0 auto;
+    width:50%;
+}
+body{
+    padding: 2%;
+    background-color:hsl(0, 95%, 15%);
+    width:55%;
+margin: 0 auto;
+}
+h1,h2{
+    text-align: center;
+}
+html{
+    color: rgb(255, 255, 255);
+    background-color:steelblue;
+}
